@@ -1,0 +1,1001 @@
+Family_size,Occupation,HouseType,Vehicles,ElectricityBill,Education,Area,Income,Bracket
+5,Business,Own,0,260,Secondary,Urban,78601,High
+4,Doctor,Rented,2,172,Graduate,Urban,38667,Medium
+4,Business,Rented,2,479,Post-Graduate,Urban,71569,High
+8,Farmer,Own,2,561,Secondary,Urban,10762,Low
+4,Doctor,Own,0,127,Post-Graduate,Urban,32795,Medium
+9,Private Job,Own,2,669,Post-Graduate,Rural,27369,Medium
+7,Private Job,Own,0,133,Post-Graduate,Urban,28675,Medium
+10,Labour,Rented,1,551,Primary,Rural,7001,BPL
+3,Teacher,Rented,0,762,Post-Graduate,Urban,13952,Low
+10,Doctor,Own,1,570,Secondary,Urban,35949,Medium
+6,Farmer,Own,1,849,Primary,Rural,6499,BPL
+3,Teacher,Rented,0,287,Graduate,Urban,13354,Low
+5,Doctor,Rented,2,263,Graduate,Rural,37274,Medium
+9,Govt Job,Own,2,101,Secondary,Rural,69400,High
+3,Teacher,Own,1,623,Post-Graduate,Rural,13003,Low
+5,Farmer,Own,0,134,Primary,Rural,8710,Low
+7,Private Job,Rented,2,413,Graduate,Urban,27831,Medium
+9,Govt Job,Rented,1,252,None,Urban,73485,High
+3,Farmer,Rented,1,279,Secondary,Urban,9342,Low
+7,Labour,Own,0,490,Graduate,Urban,8564,Low
+2,Doctor,Rented,0,287,None,Urban,32380,Medium
+9,Farmer,Own,2,989,Primary,Urban,9899,Low
+4,Farmer,Rented,1,234,Secondary,Rural,10533,Low
+3,Labour,Rented,1,762,Graduate,Urban,7683,BPL
+3,Business,Rented,0,578,Graduate,Urban,88212,High
+5,Private Job,Rented,1,256,Graduate,Urban,29465,Medium
+6,Teacher,Rented,0,825,Post-Graduate,Urban,13754,Low
+7,Private Job,Own,0,348,None,Urban,25475,Medium
+9,Teacher,Rented,1,679,Graduate,Rural,12089,Low
+7,Labour,Rented,1,307,Secondary,Urban,8703,Low
+7,Labour,Own,1,594,Secondary,Rural,6883,BPL
+5,Govt Job,Own,1,825,Secondary,Urban,71967,High
+10,Teacher,Own,1,729,Post-Graduate,Urban,12423,Low
+8,Private Job,Own,0,888,None,Urban,27954,Medium
+10,Govt Job,Rented,1,865,Graduate,Rural,72004,High
+4,Labour,Rented,0,735,Primary,Rural,7610,BPL
+5,Govt Job,Own,1,658,Graduate,Rural,76182,High
+6,Govt Job,Rented,0,979,Secondary,Rural,77796,High
+6,Teacher,Own,2,202,Secondary,Urban,13668,Low
+7,Labour,Own,2,441,Graduate,Rural,5849,BPL
+3,Govt Job,Own,2,679,Post-Graduate,Rural,73505,High
+8,Labour,Rented,2,960,Graduate,Rural,9694,Low
+8,Teacher,Own,0,928,Primary,Rural,13516,Low
+8,Business,Own,0,888,Primary,Urban,86714,High
+8,Teacher,Rented,0,900,Post-Graduate,Rural,12663,Low
+7,Govt Job,Own,2,918,Graduate,Urban,69595,High
+7,Teacher,Own,0,898,Post-Graduate,Urban,13858,Low
+8,Govt Job,Rented,2,793,None,Urban,65750,High
+5,Farmer,Own,0,583,Graduate,Urban,6146,BPL
+9,Farmer,Own,0,823,Primary,Urban,11826,Low
+8,Business,Own,0,618,Post-Graduate,Urban,74815,High
+4,Doctor,Own,1,294,None,Urban,31346,Medium
+4,Private Job,Rented,0,224,Primary,Urban,28788,Medium
+4,Private Job,Own,0,924,None,Urban,26345,Medium
+6,Private Job,Own,2,392,Secondary,Urban,28179,Medium
+7,Teacher,Own,2,129,Secondary,Urban,13409,Low
+7,Labour,Rented,1,386,Secondary,Rural,6451,BPL
+3,Private Job,Own,0,758,None,Rural,28364,Medium
+4,Teacher,Rented,1,545,Secondary,Urban,12950,Low
+3,Labour,Own,2,312,Primary,Urban,8862,Low
+3,Teacher,Rented,2,130,Graduate,Urban,13418,Low
+4,Business,Rented,2,855,Primary,Rural,74109,High
+6,Private Job,Own,1,755,Primary,Urban,29215,Medium
+4,Govt Job,Rented,1,843,Post-Graduate,Rural,64954,High
+3,Labour,Rented,0,188,None,Rural,7555,BPL
+8,Labour,Own,0,370,Post-Graduate,Urban,6957,BPL
+9,Teacher,Own,2,388,Secondary,Urban,12097,Low
+6,Private Job,Own,0,478,None,Urban,25912,Medium
+9,Labour,Own,0,858,Graduate,Urban,8669,Low
+5,Farmer,Own,0,945,Graduate,Rural,10978,Low
+6,Labour,Rented,1,232,Primary,Urban,7710,BPL
+6,Labour,Rented,2,878,Secondary,Urban,7349,BPL
+5,Teacher,Rented,0,513,Graduate,Urban,12418,Low
+9,Govt Job,Rented,2,328,Secondary,Urban,68472,High
+3,Private Job,Own,2,946,Primary,Urban,25128,Medium
+5,Business,Rented,0,116,Primary,Rural,88428,High
+8,Farmer,Own,0,274,Primary,Urban,6948,BPL
+10,Labour,Own,0,560,Secondary,Urban,7448,BPL
+5,Labour,Rented,1,111,Graduate,Urban,7550,BPL
+8,Private Job,Rented,2,982,Post-Graduate,Rural,25496,Medium
+5,Doctor,Own,2,480,Primary,Urban,34065,Medium
+9,Govt Job,Rented,1,722,Graduate,Urban,60983,High
+5,Business,Own,2,726,Post-Graduate,Urban,84556,High
+6,Business,Rented,1,427,Primary,Urban,84127,High
+10,Doctor,Own,2,647,Secondary,Rural,31416,Medium
+6,Private Job,Rented,1,621,None,Rural,26636,Medium
+7,Business,Own,0,858,Secondary,Urban,87797,High
+9,Labour,Own,2,897,None,Rural,7576,BPL
+9,Farmer,Own,0,875,Post-Graduate,Urban,6212,BPL
+7,Private Job,Rented,2,538,Primary,Urban,25906,Medium
+9,Govt Job,Rented,1,122,None,Urban,65083,High
+9,Business,Own,2,263,Secondary,Rural,71924,High
+3,Govt Job,Rented,0,948,Post-Graduate,Urban,73020,High
+4,Doctor,Rented,1,345,Post-Graduate,Rural,32821,Medium
+8,Farmer,Own,1,421,Post-Graduate,Rural,7697,BPL
+9,Labour,Rented,0,673,Post-Graduate,Urban,8466,Low
+5,Business,Own,2,427,Secondary,Urban,87623,High
+4,Doctor,Own,2,161,Post-Graduate,Urban,38489,Medium
+4,Private Job,Rented,1,604,Graduate,Rural,29603,Medium
+3,Private Job,Own,1,343,Secondary,Urban,25719,Medium
+2,Private Job,Rented,0,224,None,Urban,27427,Medium
+3,Labour,Rented,1,727,None,Urban,7033,BPL
+7,Business,Rented,1,561,Graduate,Urban,75850,High
+2,Private Job,Rented,1,674,Graduate,Urban,26308,Medium
+8,Teacher,Own,0,592,Secondary,Rural,12181,Low
+6,Private Job,Own,2,560,Primary,Rural,28976,Medium
+7,Labour,Rented,2,444,Primary,Rural,5886,BPL
+3,Doctor,Rented,0,990,Primary,Rural,32816,Medium
+2,Doctor,Rented,1,908,Graduate,Rural,37580,Medium
+2,Labour,Own,2,566,Secondary,Rural,7248,BPL
+2,Farmer,Own,0,521,Secondary,Urban,10856,Low
+5,Govt Job,Own,0,483,Graduate,Urban,73102,High
+2,Private Job,Own,2,868,Post-Graduate,Urban,27566,Medium
+8,Govt Job,Rented,2,101,None,Rural,73355,High
+6,Private Job,Rented,2,772,Graduate,Rural,28860,Medium
+3,Teacher,Rented,2,429,Graduate,Urban,12047,Low
+7,Private Job,Rented,0,954,None,Urban,25026,Medium
+6,Teacher,Rented,0,470,Graduate,Urban,13808,Low
+5,Govt Job,Rented,0,213,Primary,Rural,77959,High
+2,Farmer,Rented,0,197,Post-Graduate,Rural,9511,Low
+4,Govt Job,Own,1,694,None,Urban,79601,High
+2,Govt Job,Rented,0,752,Primary,Urban,72928,High
+3,Labour,Rented,2,932,Secondary,Rural,8387,Low
+10,Doctor,Rented,0,852,Secondary,Rural,35063,Medium
+6,Govt Job,Rented,1,492,Post-Graduate,Rural,78300,High
+9,Farmer,Rented,0,190,Primary,Rural,10289,Low
+5,Doctor,Own,0,448,Graduate,Urban,34572,Medium
+10,Labour,Own,0,324,Graduate,Rural,9418,Low
+9,Private Job,Rented,1,601,Secondary,Rural,26115,Medium
+10,Business,Own,0,406,Secondary,Rural,76457,High
+6,Doctor,Own,2,947,Secondary,Urban,36833,Medium
+6,Labour,Own,2,498,Primary,Urban,8290,Low
+5,Farmer,Own,2,652,Primary,Rural,6019,BPL
+2,Farmer,Rented,2,729,None,Urban,6216,BPL
+5,Govt Job,Own,1,258,Graduate,Rural,69165,High
+7,Teacher,Rented,1,643,Graduate,Urban,13989,Low
+10,Labour,Rented,2,908,Secondary,Urban,5677,BPL
+3,Business,Rented,1,564,Secondary,Urban,75329,High
+4,Govt Job,Own,1,242,None,Urban,61099,High
+3,Private Job,Own,1,501,Primary,Rural,28834,Medium
+9,Private Job,Rented,1,223,Secondary,Rural,25286,Medium
+7,Doctor,Own,2,947,None,Urban,37894,Medium
+5,Teacher,Rented,0,657,Graduate,Rural,13814,Low
+7,Private Job,Own,2,411,Post-Graduate,Urban,27159,Medium
+5,Business,Rented,1,594,Primary,Rural,82680,High
+6,Doctor,Own,2,399,Graduate,Urban,31297,Medium
+2,Teacher,Rented,1,530,Post-Graduate,Urban,12324,Low
+9,Govt Job,Rented,0,512,Post-Graduate,Urban,76137,High
+4,Labour,Own,2,756,None,Rural,5266,BPL
+5,Teacher,Rented,2,215,Primary,Urban,12938,Low
+5,Private Job,Rented,1,834,Graduate,Rural,29366,Medium
+4,Labour,Rented,2,339,Secondary,Rural,8028,Low
+5,Labour,Own,0,362,Post-Graduate,Urban,9197,Low
+6,Farmer,Own,1,497,Secondary,Urban,10178,Low
+7,Labour,Own,2,930,Graduate,Rural,9793,Low
+7,Labour,Rented,2,616,Secondary,Rural,7125,BPL
+9,Farmer,Rented,2,926,Graduate,Rural,10461,Low
+2,Doctor,Own,2,850,Primary,Urban,39358,Medium
+8,Private Job,Rented,2,530,Primary,Urban,28347,Medium
+3,Farmer,Rented,1,198,None,Urban,10380,Low
+9,Doctor,Own,0,269,Graduate,Urban,34209,Medium
+7,Govt Job,Own,0,731,Post-Graduate,Rural,72320,High
+2,Business,Own,2,163,None,Rural,74673,High
+9,Business,Rented,2,940,None,Urban,76243,High
+7,Farmer,Own,1,986,Post-Graduate,Urban,8241,Low
+2,Business,Rented,1,336,Primary,Rural,75672,High
+5,Labour,Rented,0,585,Primary,Urban,6920,BPL
+7,Private Job,Own,1,621,Post-Graduate,Urban,29437,Medium
+7,Private Job,Rented,1,234,Primary,Rural,28914,Medium
+10,Doctor,Own,1,231,Secondary,Rural,32241,Medium
+8,Teacher,Rented,0,727,Graduate,Rural,12661,Low
+10,Farmer,Own,0,203,Post-Graduate,Urban,9871,Low
+5,Doctor,Rented,2,265,Post-Graduate,Rural,39901,Medium
+10,Labour,Own,2,189,Primary,Urban,5138,BPL
+9,Govt Job,Rented,1,392,Secondary,Rural,79416,High
+10,Private Job,Own,2,236,Primary,Urban,26538,Medium
+5,Labour,Rented,1,792,Graduate,Rural,8236,Low
+4,Farmer,Own,1,744,Secondary,Rural,10929,Low
+4,Govt Job,Rented,0,817,None,Urban,62330,High
+5,Doctor,Rented,0,699,Graduate,Urban,34218,Medium
+5,Govt Job,Rented,1,891,Secondary,Rural,64375,High
+6,Doctor,Rented,0,997,Secondary,Rural,33946,Medium
+9,Labour,Own,0,159,Primary,Urban,6334,BPL
+7,Teacher,Rented,1,242,Primary,Urban,12856,Low
+8,Doctor,Rented,0,256,Graduate,Urban,38588,Medium
+6,Govt Job,Rented,1,252,Secondary,Rural,76375,High
+8,Farmer,Own,1,897,None,Rural,7073,BPL
+5,Govt Job,Own,0,868,None,Urban,72059,High
+4,Farmer,Own,2,607,Post-Graduate,Urban,11840,Low
+7,Doctor,Rented,2,844,None,Urban,32789,Medium
+8,Farmer,Rented,1,275,Graduate,Rural,11906,Low
+5,Private Job,Own,2,201,Secondary,Rural,29885,Medium
+3,Private Job,Own,1,414,None,Urban,27345,Medium
+7,Labour,Rented,1,280,Post-Graduate,Urban,5465,BPL
+2,Teacher,Own,1,997,Graduate,Urban,13006,Low
+6,Doctor,Own,1,686,Graduate,Rural,37128,Medium
+3,Govt Job,Rented,1,299,None,Rural,71533,High
+9,Doctor,Rented,1,258,Post-Graduate,Urban,31955,Medium
+4,Farmer,Own,1,924,Post-Graduate,Urban,11636,Low
+8,Govt Job,Own,1,649,Graduate,Urban,75797,High
+8,Doctor,Rented,2,923,None,Urban,34097,Medium
+5,Govt Job,Rented,1,834,Secondary,Rural,72872,High
+9,Teacher,Rented,0,585,None,Urban,13597,Low
+9,Labour,Rented,2,432,Post-Graduate,Rural,8468,Low
+3,Farmer,Rented,2,136,Post-Graduate,Rural,9820,Low
+6,Doctor,Rented,2,190,Post-Graduate,Rural,39837,Medium
+4,Labour,Own,0,427,Secondary,Rural,9279,Low
+6,Private Job,Own,2,673,Post-Graduate,Rural,29078,Medium
+5,Doctor,Rented,0,181,Primary,Rural,37624,Medium
+5,Farmer,Own,1,526,Graduate,Rural,9471,Low
+4,Doctor,Rented,1,791,Primary,Urban,38439,Medium
+8,Private Job,Rented,1,281,Post-Graduate,Rural,28851,Medium
+9,Doctor,Own,1,391,Primary,Urban,36362,Medium
+5,Doctor,Rented,1,756,Secondary,Rural,37178,Medium
+5,Teacher,Rented,1,945,Post-Graduate,Rural,12811,Low
+6,Labour,Own,0,241,Secondary,Urban,6044,BPL
+2,Govt Job,Own,2,198,Primary,Urban,73124,High
+4,Labour,Rented,1,775,Post-Graduate,Urban,7149,BPL
+8,Doctor,Rented,2,201,Post-Graduate,Rural,37747,Medium
+10,Teacher,Rented,1,546,Graduate,Urban,12134,Low
+7,Labour,Rented,0,412,None,Urban,5459,BPL
+5,Teacher,Rented,1,687,Primary,Rural,13535,Low
+5,Farmer,Rented,1,529,Primary,Urban,10726,Low
+5,Teacher,Own,2,453,Primary,Rural,12308,Low
+3,Doctor,Rented,2,121,Secondary,Urban,39926,Medium
+6,Private Job,Own,2,939,None,Urban,26767,Medium
+10,Private Job,Rented,1,542,None,Urban,26628,Medium
+6,Labour,Own,2,412,Graduate,Rural,8201,Low
+9,Business,Own,2,510,Primary,Rural,88269,High
+9,Teacher,Rented,1,857,Secondary,Rural,13594,Low
+4,Govt Job,Own,1,336,Primary,Urban,76822,High
+8,Govt Job,Rented,2,517,Post-Graduate,Rural,73840,High
+9,Labour,Own,0,321,Primary,Urban,8953,Low
+5,Private Job,Own,0,119,Graduate,Rural,28649,Medium
+7,Govt Job,Rented,2,866,None,Rural,77078,High
+4,Business,Rented,1,866,Primary,Urban,79718,High
+6,Teacher,Own,1,967,Primary,Rural,12214,Low
+9,Labour,Own,1,790,Post-Graduate,Rural,8511,Low
+5,Farmer,Own,1,793,Graduate,Urban,8656,Low
+6,Farmer,Own,0,365,Graduate,Urban,6264,BPL
+4,Doctor,Rented,2,418,Post-Graduate,Urban,37154,Medium
+5,Labour,Own,1,894,Secondary,Urban,9673,Low
+4,Private Job,Rented,0,135,Post-Graduate,Rural,29438,Medium
+9,Labour,Own,2,814,Post-Graduate,Rural,9801,Low
+7,Business,Rented,2,633,Primary,Rural,73267,High
+2,Doctor,Rented,2,259,Graduate,Rural,37459,Medium
+4,Govt Job,Own,2,811,Secondary,Urban,62868,High
+2,Govt Job,Own,0,224,Post-Graduate,Rural,79537,High
+2,Labour,Rented,2,314,Primary,Rural,9491,Low
+8,Private Job,Rented,0,261,None,Rural,25417,Medium
+5,Teacher,Own,0,196,None,Rural,12874,Low
+2,Doctor,Own,1,257,Primary,Urban,38492,Medium
+3,Labour,Own,1,761,Secondary,Rural,8837,Low
+5,Farmer,Own,1,595,Primary,Rural,10480,Low
+8,Labour,Own,0,589,Secondary,Rural,7899,BPL
+2,Doctor,Own,0,598,None,Urban,36781,Medium
+10,Private Job,Rented,1,652,Primary,Rural,26566,Medium
+10,Teacher,Own,1,564,None,Rural,12907,Low
+10,Private Job,Own,0,476,Graduate,Urban,26243,Medium
+9,Doctor,Own,0,611,Primary,Rural,30931,Medium
+3,Teacher,Rented,0,479,Post-Graduate,Rural,12609,Low
+7,Doctor,Rented,2,248,Graduate,Urban,33067,Medium
+2,Doctor,Rented,0,165,Graduate,Urban,31779,Medium
+8,Business,Rented,2,667,Graduate,Rural,73722,High
+3,Farmer,Rented,1,841,None,Urban,7620,BPL
+3,Private Job,Own,2,541,Secondary,Rural,26038,Medium
+10,Business,Own,1,110,Primary,Urban,80445,High
+10,Labour,Rented,0,359,Graduate,Urban,8313,Low
+10,Farmer,Own,1,481,Secondary,Rural,8556,Low
+9,Teacher,Own,2,821,Primary,Urban,13399,Low
+5,Farmer,Rented,1,159,Graduate,Rural,7284,BPL
+4,Doctor,Rented,2,146,Secondary,Urban,35462,Medium
+8,Farmer,Own,1,212,Primary,Urban,7765,BPL
+6,Govt Job,Own,0,242,None,Urban,64941,High
+2,Business,Own,0,325,Primary,Urban,83281,High
+6,Business,Own,1,956,Post-Graduate,Urban,87033,High
+7,Private Job,Rented,2,670,None,Rural,26443,Medium
+6,Private Job,Own,2,454,Secondary,Rural,29445,Medium
+5,Doctor,Own,2,183,Graduate,Rural,34918,Medium
+4,Doctor,Rented,2,611,Primary,Urban,38212,Medium
+2,Govt Job,Own,0,488,None,Urban,62162,High
+3,Labour,Rented,1,607,Graduate,Urban,7033,BPL
+4,Teacher,Own,2,560,None,Rural,12866,Low
+9,Business,Rented,1,154,None,Urban,73997,High
+10,Farmer,Own,0,429,Graduate,Urban,8516,Low
+4,Business,Own,0,938,Primary,Urban,73344,High
+10,Labour,Own,0,999,Post-Graduate,Rural,7055,BPL
+9,Farmer,Rented,2,584,Graduate,Urban,7850,BPL
+3,Private Job,Own,1,495,Post-Graduate,Rural,28995,Medium
+5,Farmer,Rented,0,367,Graduate,Urban,11286,Low
+8,Business,Own,0,360,Graduate,Urban,77880,High
+4,Govt Job,Own,2,164,Secondary,Rural,77332,High
+7,Private Job,Own,2,391,Primary,Rural,29604,Medium
+8,Govt Job,Own,0,938,Secondary,Rural,64042,High
+2,Private Job,Rented,1,366,Secondary,Rural,27566,Medium
+7,Private Job,Rented,0,134,Graduate,Rural,28748,Medium
+4,Business,Own,0,369,Post-Graduate,Rural,72583,High
+3,Labour,Own,0,172,Graduate,Rural,8756,Low
+5,Teacher,Own,1,557,Graduate,Urban,12473,Low
+10,Govt Job,Rented,2,735,None,Urban,76034,High
+6,Teacher,Own,1,733,Post-Graduate,Rural,13762,Low
+10,Govt Job,Own,0,108,Primary,Rural,62595,High
+9,Labour,Rented,1,670,Post-Graduate,Rural,6074,BPL
+8,Private Job,Rented,0,351,Secondary,Urban,28148,Medium
+6,Teacher,Rented,2,705,Primary,Urban,13280,Low
+10,Govt Job,Own,2,209,Graduate,Urban,66337,High
+6,Farmer,Rented,1,381,Graduate,Urban,10551,Low
+6,Business,Own,1,385,Secondary,Urban,77770,High
+2,Farmer,Rented,0,433,Secondary,Urban,9312,Low
+9,Farmer,Own,2,431,Secondary,Rural,6886,BPL
+3,Farmer,Rented,0,582,Primary,Urban,10239,Low
+4,Labour,Rented,2,617,Post-Graduate,Rural,5936,BPL
+9,Private Job,Own,1,415,Secondary,Urban,27401,Medium
+6,Doctor,Own,1,999,None,Rural,37977,Medium
+3,Labour,Own,0,288,Secondary,Rural,7897,BPL
+2,Govt Job,Rented,0,899,Graduate,Rural,66970,High
+6,Private Job,Own,1,644,Post-Graduate,Urban,26052,Medium
+5,Labour,Rented,2,820,Post-Graduate,Urban,8025,Low
+9,Business,Rented,2,753,None,Urban,76820,High
+5,Business,Rented,1,838,Secondary,Urban,87679,High
+3,Doctor,Own,0,854,Graduate,Rural,33332,Medium
+10,Farmer,Rented,0,129,Secondary,Urban,6643,BPL
+8,Private Job,Rented,2,665,Post-Graduate,Urban,29621,Medium
+4,Labour,Rented,0,983,Primary,Rural,5935,BPL
+8,Govt Job,Own,0,318,Post-Graduate,Urban,76982,High
+7,Doctor,Rented,2,834,Primary,Rural,36446,Medium
+2,Private Job,Own,0,447,Primary,Rural,28048,Medium
+10,Business,Own,0,492,Post-Graduate,Rural,86617,High
+10,Teacher,Own,0,967,Post-Graduate,Urban,13082,Low
+6,Business,Own,2,232,Graduate,Urban,89586,High
+4,Private Job,Rented,1,767,None,Urban,26181,Medium
+4,Farmer,Own,2,251,None,Urban,6889,BPL
+3,Doctor,Rented,1,774,Secondary,Rural,38524,Medium
+7,Govt Job,Rented,2,127,Secondary,Rural,68266,High
+10,Teacher,Own,1,370,Secondary,Rural,12268,Low
+3,Private Job,Rented,1,210,None,Urban,28098,Medium
+8,Govt Job,Rented,0,422,Post-Graduate,Rural,77494,High
+3,Private Job,Rented,0,644,Primary,Urban,26033,Medium
+8,Teacher,Rented,0,601,Secondary,Rural,13245,Low
+7,Teacher,Rented,1,310,Primary,Rural,12339,Low
+8,Doctor,Rented,2,959,Post-Graduate,Urban,37633,Medium
+2,Farmer,Rented,1,170,None,Rural,7946,BPL
+2,Farmer,Own,0,292,Graduate,Urban,11578,Low
+10,Doctor,Own,1,573,Graduate,Urban,38859,Medium
+5,Business,Rented,0,327,Secondary,Urban,87780,High
+8,Labour,Own,0,567,Graduate,Urban,8418,Low
+4,Private Job,Rented,1,887,Primary,Rural,25803,Medium
+10,Business,Own,0,373,Primary,Urban,70705,High
+3,Teacher,Rented,2,738,Post-Graduate,Urban,13021,Low
+9,Teacher,Own,2,973,Post-Graduate,Urban,12244,Low
+2,Doctor,Own,0,643,None,Rural,37097,Medium
+10,Govt Job,Rented,0,246,Graduate,Rural,61501,High
+6,Doctor,Rented,0,940,None,Urban,39345,Medium
+10,Govt Job,Own,0,853,Post-Graduate,Rural,67762,High
+5,Private Job,Own,1,771,Secondary,Rural,26534,Medium
+10,Farmer,Own,0,241,Post-Graduate,Urban,9053,Low
+5,Labour,Rented,2,878,Post-Graduate,Urban,5482,BPL
+7,Farmer,Rented,0,402,Secondary,Rural,9936,Low
+2,Govt Job,Own,2,481,Secondary,Rural,61813,High
+7,Doctor,Rented,1,384,Post-Graduate,Urban,35103,Medium
+10,Labour,Own,0,741,Primary,Rural,5387,BPL
+8,Labour,Own,2,397,Graduate,Urban,8877,Low
+4,Labour,Rented,1,650,Primary,Rural,6437,BPL
+8,Teacher,Rented,0,370,Graduate,Rural,12986,Low
+2,Teacher,Rented,0,752,Secondary,Rural,13945,Low
+8,Private Job,Own,0,491,Secondary,Rural,28372,Medium
+9,Doctor,Own,2,468,Post-Graduate,Rural,39292,Medium
+5,Teacher,Own,0,521,Primary,Urban,13358,Low
+4,Business,Own,1,427,Graduate,Rural,73109,High
+2,Labour,Rented,0,130,Secondary,Urban,5103,BPL
+5,Doctor,Own,1,897,None,Urban,38227,Medium
+7,Govt Job,Own,2,495,Graduate,Rural,67661,High
+10,Private Job,Rented,0,915,Secondary,Urban,28277,Medium
+5,Farmer,Rented,0,154,None,Rural,8256,Low
+3,Doctor,Own,2,691,None,Urban,30531,Medium
+2,Doctor,Own,2,832,Post-Graduate,Urban,31107,Medium
+4,Labour,Rented,1,662,Post-Graduate,Rural,7680,BPL
+10,Private Job,Own,1,286,Graduate,Rural,29651,Medium
+9,Business,Rented,1,417,None,Urban,71711,High
+6,Business,Rented,0,888,Primary,Rural,75509,High
+3,Private Job,Own,1,471,Secondary,Urban,25009,Medium
+6,Farmer,Rented,0,937,Primary,Urban,10637,Low
+4,Private Job,Own,1,197,Graduate,Rural,27661,Medium
+9,Labour,Own,0,690,Graduate,Rural,9844,Low
+8,Govt Job,Rented,1,679,Graduate,Urban,70990,High
+4,Govt Job,Own,0,315,Primary,Rural,70075,High
+7,Business,Own,2,580,None,Urban,79355,High
+4,Farmer,Own,2,691,None,Rural,10244,Low
+3,Govt Job,Own,2,825,Graduate,Rural,70523,High
+5,Labour,Rented,2,274,None,Rural,8730,Low
+7,Farmer,Rented,1,181,None,Urban,10367,Low
+3,Govt Job,Rented,2,356,Post-Graduate,Rural,72825,High
+3,Private Job,Rented,0,517,Primary,Urban,28726,Medium
+7,Farmer,Own,0,801,Post-Graduate,Rural,10609,Low
+3,Labour,Own,0,918,Primary,Rural,7796,BPL
+8,Business,Own,0,652,None,Urban,72562,High
+5,Farmer,Own,1,583,Primary,Urban,9357,Low
+5,Private Job,Own,2,289,None,Rural,27167,Medium
+6,Teacher,Rented,2,178,Secondary,Urban,13288,Low
+7,Labour,Own,2,423,Primary,Urban,5368,BPL
+10,Labour,Rented,2,931,Secondary,Rural,6078,BPL
+8,Business,Own,0,570,None,Rural,82681,High
+6,Doctor,Rented,0,441,None,Urban,34982,Medium
+10,Teacher,Rented,2,109,Secondary,Rural,13222,Low
+2,Labour,Own,1,671,None,Rural,6452,BPL
+3,Labour,Rented,0,323,Secondary,Urban,6014,BPL
+3,Govt Job,Own,2,412,Secondary,Urban,77216,High
+2,Farmer,Rented,1,353,None,Urban,10834,Low
+6,Labour,Own,1,847,Primary,Urban,8746,Low
+7,Govt Job,Rented,2,586,None,Rural,66669,High
+4,Private Job,Own,0,373,Secondary,Urban,25852,Medium
+8,Private Job,Own,1,878,Primary,Urban,27482,Medium
+10,Teacher,Rented,0,815,Post-Graduate,Rural,13647,Low
+7,Business,Own,0,980,Secondary,Urban,74826,High
+4,Farmer,Rented,0,514,None,Urban,7944,BPL
+3,Teacher,Own,2,503,Graduate,Rural,12391,Low
+6,Private Job,Own,0,152,Post-Graduate,Urban,29530,Medium
+10,Doctor,Rented,0,313,Primary,Rural,32403,Medium
+2,Business,Own,1,145,None,Urban,83140,High
+9,Doctor,Rented,2,860,Post-Graduate,Urban,36148,Medium
+2,Doctor,Own,2,897,Primary,Urban,38393,Medium
+7,Farmer,Own,0,826,Primary,Urban,9769,Low
+4,Doctor,Own,0,328,Graduate,Rural,34259,Medium
+5,Teacher,Own,0,937,None,Rural,13060,Low
+2,Labour,Own,0,143,Primary,Urban,5687,BPL
+9,Labour,Own,2,669,Graduate,Rural,7141,BPL
+6,Labour,Rented,0,513,None,Rural,5116,BPL
+5,Doctor,Rented,1,285,Secondary,Urban,33279,Medium
+2,Labour,Rented,1,439,Secondary,Urban,6286,BPL
+2,Teacher,Rented,2,232,None,Urban,13338,Low
+7,Govt Job,Own,1,650,Secondary,Rural,72951,High
+4,Farmer,Own,1,201,Graduate,Rural,10713,Low
+7,Labour,Rented,2,983,Post-Graduate,Rural,7311,BPL
+4,Govt Job,Own,2,158,Primary,Urban,67723,High
+8,Labour,Own,1,210,Post-Graduate,Urban,6685,BPL
+3,Business,Own,1,827,Post-Graduate,Urban,86060,High
+2,Business,Rented,0,455,Post-Graduate,Rural,79672,High
+4,Farmer,Own,1,656,Post-Graduate,Urban,11680,Low
+6,Doctor,Rented,2,112,Secondary,Urban,39600,Medium
+6,Farmer,Own,2,144,Secondary,Urban,8930,Low
+5,Labour,Rented,2,524,Primary,Urban,5665,BPL
+4,Private Job,Rented,2,381,Post-Graduate,Urban,29880,Medium
+2,Business,Rented,0,256,Post-Graduate,Urban,87766,High
+8,Doctor,Own,1,263,Post-Graduate,Rural,34765,Medium
+2,Labour,Own,2,647,None,Rural,8581,Low
+9,Govt Job,Rented,1,362,None,Rural,70362,High
+10,Labour,Own,2,269,None,Urban,8778,Low
+10,Doctor,Own,2,253,Secondary,Rural,34994,Medium
+5,Teacher,Own,0,807,Secondary,Rural,13589,Low
+10,Labour,Rented,1,562,Primary,Rural,6993,BPL
+9,Teacher,Own,2,128,Secondary,Rural,13225,Low
+5,Private Job,Rented,2,917,None,Rural,27728,Medium
+9,Business,Rented,0,388,None,Urban,74008,High
+3,Labour,Own,2,477,Graduate,Rural,5587,BPL
+8,Govt Job,Rented,0,692,Graduate,Urban,66294,High
+5,Business,Own,2,413,Primary,Urban,89319,High
+10,Teacher,Rented,2,674,Secondary,Rural,12724,Low
+6,Labour,Own,1,481,Primary,Urban,9259,Low
+9,Labour,Rented,1,669,Post-Graduate,Rural,7331,BPL
+4,Labour,Rented,1,236,None,Urban,8389,Low
+5,Doctor,Rented,0,849,Graduate,Urban,35570,Medium
+9,Farmer,Rented,2,898,Post-Graduate,Rural,11630,Low
+3,Private Job,Rented,2,833,Secondary,Urban,25378,Medium
+6,Labour,Own,0,356,Secondary,Urban,5244,BPL
+4,Doctor,Rented,0,156,Secondary,Rural,30445,Medium
+7,Doctor,Rented,1,547,Graduate,Urban,39053,Medium
+5,Doctor,Rented,0,832,Post-Graduate,Rural,36955,Medium
+8,Farmer,Own,0,571,Primary,Urban,6114,BPL
+3,Farmer,Rented,1,906,None,Rural,8678,Low
+7,Labour,Own,0,270,Secondary,Urban,6778,BPL
+7,Farmer,Rented,2,752,Secondary,Rural,10356,Low
+7,Doctor,Rented,0,220,None,Rural,30559,Medium
+9,Farmer,Own,2,331,Primary,Urban,9418,Low
+9,Doctor,Rented,1,300,None,Rural,31731,Medium
+3,Business,Rented,2,196,Secondary,Urban,81449,High
+6,Govt Job,Rented,0,813,Post-Graduate,Urban,61537,High
+6,Labour,Rented,2,494,Primary,Rural,9892,Low
+2,Farmer,Own,1,857,Post-Graduate,Urban,9744,Low
+5,Teacher,Own,0,140,Secondary,Rural,13338,Low
+9,Govt Job,Own,0,510,Secondary,Urban,78415,High
+9,Teacher,Own,2,402,Graduate,Rural,13822,Low
+4,Farmer,Own,1,263,Graduate,Urban,10907,Low
+2,Farmer,Rented,0,713,Graduate,Urban,7253,BPL
+9,Farmer,Rented,2,263,Post-Graduate,Urban,8986,Low
+6,Labour,Rented,1,547,None,Urban,5015,BPL
+2,Farmer,Rented,2,270,Graduate,Urban,11822,Low
+8,Doctor,Rented,0,376,Secondary,Urban,34189,Medium
+5,Business,Rented,0,591,Secondary,Rural,76074,High
+3,Labour,Rented,0,577,Secondary,Rural,9464,Low
+2,Teacher,Own,0,473,Secondary,Rural,12077,Low
+6,Teacher,Own,0,491,Secondary,Rural,13785,Low
+3,Govt Job,Rented,2,387,Secondary,Rural,74125,High
+7,Labour,Rented,1,426,Primary,Rural,8909,Low
+6,Business,Own,2,199,Primary,Urban,82112,High
+3,Business,Rented,0,737,Secondary,Rural,85213,High
+4,Teacher,Rented,1,912,Post-Graduate,Rural,13753,Low
+10,Farmer,Rented,0,776,None,Urban,10345,Low
+8,Labour,Own,2,337,Secondary,Urban,5391,BPL
+4,Business,Own,2,945,Graduate,Urban,72292,High
+9,Teacher,Own,0,883,None,Rural,13572,Low
+5,Business,Own,2,344,Graduate,Urban,88603,High
+2,Teacher,Rented,1,506,Secondary,Rural,12056,Low
+6,Farmer,Own,0,739,None,Urban,9943,Low
+10,Private Job,Rented,0,209,None,Urban,29499,Medium
+4,Teacher,Rented,0,175,Post-Graduate,Rural,13239,Low
+5,Labour,Own,0,347,Graduate,Urban,8509,Low
+8,Business,Own,0,245,None,Rural,83878,High
+3,Private Job,Rented,2,136,Secondary,Urban,29581,Medium
+10,Private Job,Own,0,131,Graduate,Rural,28362,Medium
+9,Labour,Rented,0,110,Primary,Urban,5509,BPL
+3,Doctor,Own,1,338,Graduate,Rural,37833,Medium
+8,Govt Job,Own,2,830,Graduate,Urban,71458,High
+6,Doctor,Own,0,283,Post-Graduate,Urban,30574,Medium
+5,Private Job,Rented,1,953,Secondary,Urban,28463,Medium
+6,Govt Job,Own,0,408,Primary,Urban,64655,High
+10,Private Job,Own,1,393,None,Rural,25408,Medium
+9,Govt Job,Rented,0,419,Secondary,Urban,65424,High
+9,Farmer,Own,2,614,Graduate,Rural,11819,Low
+10,Govt Job,Own,0,508,Post-Graduate,Rural,63348,High
+4,Govt Job,Own,1,766,Post-Graduate,Urban,66510,High
+4,Labour,Own,0,661,Post-Graduate,Rural,8278,Low
+5,Teacher,Rented,1,856,Post-Graduate,Rural,13409,Low
+7,Labour,Rented,2,332,Primary,Urban,8541,Low
+3,Private Job,Rented,0,108,Secondary,Rural,26624,Medium
+9,Labour,Own,0,385,None,Rural,9186,Low
+4,Private Job,Rented,0,488,Graduate,Rural,25740,Medium
+6,Labour,Own,2,139,Secondary,Rural,9365,Low
+8,Labour,Rented,0,224,Primary,Rural,8850,Low
+3,Doctor,Own,1,223,Secondary,Rural,35400,Medium
+6,Business,Own,0,420,None,Urban,82542,High
+2,Farmer,Own,2,533,None,Urban,8346,Low
+3,Business,Own,1,940,Post-Graduate,Urban,89737,High
+2,Govt Job,Rented,0,730,None,Rural,62802,High
+9,Govt Job,Rented,0,566,Primary,Rural,64728,High
+9,Govt Job,Rented,1,729,Graduate,Urban,66899,High
+4,Farmer,Own,0,164,Secondary,Rural,11564,Low
+4,Farmer,Rented,1,436,Secondary,Urban,6138,BPL
+9,Labour,Rented,2,220,Secondary,Rural,8734,Low
+4,Private Job,Own,1,543,Post-Graduate,Rural,27601,Medium
+2,Doctor,Rented,2,250,Graduate,Urban,34441,Medium
+4,Doctor,Own,2,627,Graduate,Rural,39998,Medium
+4,Business,Own,0,981,Secondary,Urban,83193,High
+7,Business,Own,1,388,Primary,Rural,71953,High
+9,Doctor,Rented,1,934,Post-Graduate,Rural,33540,Medium
+7,Doctor,Own,1,687,Secondary,Rural,38620,Medium
+6,Doctor,Own,0,561,Graduate,Urban,35694,Medium
+4,Labour,Own,2,543,Graduate,Rural,9989,Low
+7,Govt Job,Own,2,662,None,Rural,64772,High
+3,Labour,Rented,1,600,None,Urban,6251,BPL
+9,Labour,Own,2,441,Graduate,Rural,8511,Low
+10,Farmer,Own,0,304,Primary,Urban,6545,BPL
+2,Private Job,Rented,2,672,Primary,Urban,27698,Medium
+5,Business,Own,2,997,Graduate,Urban,85548,High
+6,Teacher,Own,1,343,None,Urban,12246,Low
+8,Teacher,Own,1,396,Secondary,Urban,13560,Low
+3,Doctor,Rented,0,733,Graduate,Rural,33292,Medium
+2,Doctor,Rented,0,979,Graduate,Rural,30687,Medium
+10,Teacher,Rented,0,100,Graduate,Rural,12561,Low
+2,Business,Rented,1,265,None,Urban,72447,High
+3,Private Job,Rented,0,579,None,Rural,29403,Medium
+9,Govt Job,Own,1,578,None,Urban,74099,High
+10,Doctor,Rented,0,802,Post-Graduate,Rural,36408,Medium
+7,Private Job,Own,2,586,Primary,Rural,29529,Medium
+10,Business,Rented,2,781,Primary,Urban,84527,High
+5,Private Job,Own,1,722,Primary,Rural,25351,Medium
+6,Labour,Rented,0,100,Primary,Rural,7555,BPL
+5,Private Job,Rented,1,747,Post-Graduate,Urban,25526,Medium
+5,Labour,Rented,2,137,Primary,Urban,5854,BPL
+7,Labour,Rented,1,760,Primary,Urban,9180,Low
+5,Doctor,Rented,1,495,Primary,Urban,37521,Medium
+2,Labour,Own,1,187,Post-Graduate,Rural,5642,BPL
+10,Private Job,Rented,2,730,Graduate,Rural,29305,Medium
+6,Farmer,Own,1,426,Post-Graduate,Rural,6834,BPL
+4,Teacher,Rented,2,418,None,Urban,13566,Low
+8,Teacher,Rented,2,588,Primary,Rural,13845,Low
+9,Labour,Own,2,182,Primary,Urban,5883,BPL
+3,Business,Rented,2,440,Primary,Rural,77043,High
+2,Farmer,Own,1,498,None,Urban,10527,Low
+9,Farmer,Own,0,740,Secondary,Rural,11666,Low
+6,Labour,Rented,2,420,Post-Graduate,Urban,9626,Low
+7,Business,Own,1,826,Primary,Rural,79406,High
+6,Doctor,Rented,0,449,Graduate,Rural,39135,Medium
+3,Labour,Rented,0,363,Primary,Rural,5868,BPL
+9,Govt Job,Own,0,872,Secondary,Urban,63243,High
+4,Govt Job,Rented,1,145,Secondary,Urban,72952,High
+7,Govt Job,Rented,2,858,Post-Graduate,Urban,66613,High
+7,Private Job,Own,0,666,None,Rural,29796,Medium
+7,Govt Job,Rented,2,881,Post-Graduate,Urban,62832,High
+2,Business,Rented,1,514,Primary,Rural,74962,High
+2,Business,Own,0,431,Secondary,Rural,81411,High
+7,Govt Job,Rented,0,866,Primary,Urban,67489,High
+3,Doctor,Own,1,561,Primary,Urban,39827,Medium
+8,Teacher,Own,1,872,None,Rural,13175,Low
+7,Teacher,Own,0,833,Secondary,Rural,12816,Low
+4,Private Job,Own,0,525,Post-Graduate,Rural,25137,Medium
+6,Business,Own,0,754,Post-Graduate,Rural,72806,High
+3,Doctor,Own,1,556,Secondary,Rural,36976,Medium
+9,Doctor,Rented,2,425,Graduate,Rural,37748,Medium
+8,Business,Own,1,856,None,Urban,79247,High
+9,Business,Own,0,194,Primary,Rural,73402,High
+7,Labour,Rented,2,154,Post-Graduate,Rural,8776,Low
+2,Doctor,Own,2,892,None,Urban,30496,Medium
+6,Farmer,Rented,2,545,None,Rural,7146,BPL
+9,Business,Rented,2,457,Post-Graduate,Urban,71967,High
+5,Teacher,Rented,2,908,None,Rural,13531,Low
+8,Private Job,Rented,2,409,Post-Graduate,Urban,26329,Medium
+4,Farmer,Own,0,644,Graduate,Rural,6524,BPL
+7,Farmer,Rented,1,200,Graduate,Rural,8721,Low
+10,Teacher,Rented,0,562,None,Rural,13708,Low
+7,Govt Job,Rented,0,461,None,Urban,64962,High
+5,Labour,Rented,1,657,None,Rural,6570,BPL
+9,Doctor,Own,2,207,Post-Graduate,Rural,34226,Medium
+4,Govt Job,Rented,2,675,Secondary,Rural,79434,High
+6,Private Job,Rented,0,393,Primary,Rural,27824,Medium
+3,Labour,Rented,0,478,Post-Graduate,Urban,9855,Low
+9,Business,Rented,0,678,Primary,Rural,78820,High
+2,Labour,Rented,1,336,Post-Graduate,Rural,9573,Low
+4,Business,Rented,0,936,Primary,Rural,70512,High
+2,Labour,Rented,0,127,None,Urban,7584,BPL
+10,Business,Own,2,345,Secondary,Rural,75119,High
+6,Govt Job,Rented,0,517,Primary,Rural,61207,High
+3,Teacher,Rented,2,569,Graduate,Rural,12079,Low
+2,Business,Own,1,113,Secondary,Rural,77019,High
+10,Private Job,Rented,2,813,Primary,Rural,26432,Medium
+10,Doctor,Rented,1,657,None,Urban,36898,Medium
+6,Private Job,Own,0,559,Primary,Urban,29276,Medium
+4,Business,Rented,0,440,Primary,Urban,76968,High
+8,Teacher,Rented,0,773,Secondary,Rural,12176,Low
+9,Farmer,Rented,1,737,Post-Graduate,Rural,8735,Low
+5,Private Job,Rented,1,696,None,Rural,26278,Medium
+9,Farmer,Own,2,974,Primary,Urban,10441,Low
+2,Govt Job,Rented,1,595,Graduate,Rural,78344,High
+8,Farmer,Rented,2,145,Graduate,Rural,10742,Low
+4,Govt Job,Rented,2,438,Primary,Urban,65861,High
+8,Govt Job,Own,1,236,Post-Graduate,Urban,75900,High
+3,Private Job,Own,0,943,Primary,Rural,29259,Medium
+7,Private Job,Own,2,320,Post-Graduate,Urban,26745,Medium
+5,Doctor,Rented,0,308,Graduate,Rural,35647,Medium
+10,Doctor,Rented,0,423,Primary,Rural,32839,Medium
+5,Private Job,Rented,1,710,None,Urban,29781,Medium
+10,Business,Own,2,914,Post-Graduate,Urban,70968,High
+3,Private Job,Own,0,574,Graduate,Rural,26740,Medium
+7,Doctor,Rented,0,679,Secondary,Urban,33004,Medium
+2,Private Job,Rented,0,370,Primary,Urban,27688,Medium
+3,Business,Rented,2,532,Graduate,Urban,89947,High
+2,Farmer,Rented,2,961,Graduate,Rural,9936,Low
+4,Doctor,Rented,1,483,Graduate,Urban,37536,Medium
+10,Govt Job,Own,0,838,Secondary,Rural,74688,High
+5,Private Job,Own,0,568,Post-Graduate,Rural,26975,Medium
+5,Doctor,Rented,1,251,Secondary,Rural,32610,Medium
+7,Doctor,Own,1,141,Primary,Urban,31978,Medium
+2,Labour,Own,0,225,Primary,Urban,6992,BPL
+8,Private Job,Rented,1,207,Primary,Urban,27530,Medium
+7,Business,Rented,2,841,None,Rural,74260,High
+10,Govt Job,Rented,0,161,None,Urban,79377,High
+4,Teacher,Own,2,698,Secondary,Rural,12710,Low
+6,Private Job,Own,1,645,None,Rural,29883,Medium
+3,Private Job,Own,0,920,Secondary,Urban,26562,Medium
+6,Teacher,Own,1,701,None,Rural,13796,Low
+5,Farmer,Own,2,405,Post-Graduate,Rural,11961,Low
+5,Govt Job,Rented,1,423,Graduate,Urban,69326,High
+7,Govt Job,Rented,1,695,Graduate,Rural,73404,High
+7,Doctor,Own,2,437,Primary,Rural,35872,Medium
+4,Govt Job,Rented,2,386,Post-Graduate,Rural,73110,High
+6,Business,Own,2,544,Graduate,Urban,72273,High
+9,Labour,Own,2,267,Graduate,Urban,6077,BPL
+9,Teacher,Rented,2,854,None,Rural,12796,Low
+2,Business,Own,2,946,Secondary,Rural,88896,High
+7,Doctor,Own,0,508,Primary,Rural,36567,Medium
+10,Teacher,Rented,1,725,Graduate,Urban,12962,Low
+8,Farmer,Own,2,194,Post-Graduate,Urban,6790,BPL
+9,Teacher,Own,0,458,Primary,Urban,13957,Low
+10,Private Job,Rented,0,703,Graduate,Urban,29326,Medium
+6,Private Job,Own,2,819,Graduate,Rural,25203,Medium
+3,Teacher,Own,1,849,None,Rural,13283,Low
+4,Teacher,Rented,0,791,Primary,Urban,13624,Low
+5,Business,Rented,0,573,Primary,Urban,80514,High
+6,Teacher,Rented,2,647,None,Rural,13682,Low
+9,Business,Rented,0,452,Secondary,Rural,89219,High
+2,Private Job,Rented,2,274,Post-Graduate,Urban,25211,Medium
+9,Teacher,Rented,0,736,Secondary,Rural,12774,Low
+2,Labour,Own,2,349,None,Urban,6253,BPL
+3,Labour,Rented,0,638,Post-Graduate,Rural,6876,BPL
+9,Labour,Own,1,728,Secondary,Rural,8994,Low
+3,Farmer,Rented,2,164,None,Rural,11009,Low
+10,Business,Own,0,634,Post-Graduate,Rural,89622,High
+7,Doctor,Rented,1,511,Graduate,Urban,35434,Medium
+10,Private Job,Own,0,716,None,Urban,27010,Medium
+4,Govt Job,Own,0,682,Primary,Urban,66188,High
+2,Business,Own,1,115,Graduate,Rural,72509,High
+10,Govt Job,Rented,1,829,Post-Graduate,Rural,69585,High
+8,Teacher,Rented,1,583,Secondary,Rural,12113,Low
+6,Farmer,Own,0,595,Graduate,Rural,7500,BPL
+3,Business,Rented,2,349,Secondary,Urban,75122,High
+7,Govt Job,Rented,1,162,None,Rural,69001,High
+2,Labour,Own,0,280,Secondary,Rural,5133,BPL
+10,Business,Rented,1,568,Post-Graduate,Rural,72653,High
+10,Labour,Rented,2,434,Graduate,Rural,7809,BPL
+8,Private Job,Own,1,964,Primary,Urban,25114,Medium
+9,Labour,Rented,0,810,Post-Graduate,Urban,9649,Low
+8,Teacher,Own,2,510,Primary,Urban,12857,Low
+7,Business,Rented,0,538,None,Urban,72247,High
+7,Doctor,Own,0,653,None,Urban,35967,Medium
+9,Labour,Rented,1,473,Post-Graduate,Rural,5280,BPL
+4,Govt Job,Own,1,501,Post-Graduate,Rural,60475,High
+8,Labour,Own,1,489,Primary,Urban,6329,BPL
+9,Teacher,Rented,1,852,Secondary,Rural,13872,Low
+4,Doctor,Own,0,793,Secondary,Rural,32826,Medium
+5,Labour,Rented,0,312,Primary,Urban,9888,Low
+2,Govt Job,Own,0,229,Graduate,Urban,69804,High
+2,Labour,Rented,0,807,Primary,Urban,8842,Low
+8,Farmer,Rented,2,743,Primary,Rural,6791,BPL
+7,Teacher,Own,2,189,Primary,Urban,13916,Low
+8,Govt Job,Own,1,311,Primary,Rural,61723,High
+2,Private Job,Rented,2,375,Primary,Rural,27814,Medium
+5,Labour,Own,1,323,Post-Graduate,Rural,8701,Low
+2,Doctor,Own,0,911,Graduate,Urban,31021,Medium
+2,Doctor,Rented,0,941,Primary,Rural,31786,Medium
+3,Private Job,Rented,1,708,None,Rural,27538,Medium
+3,Business,Rented,0,765,Primary,Rural,82133,High
+3,Private Job,Rented,0,998,Primary,Urban,27001,Medium
+8,Teacher,Rented,0,377,Secondary,Urban,12788,Low
+2,Private Job,Own,1,764,Post-Graduate,Rural,27213,Medium
+2,Doctor,Own,0,689,Secondary,Rural,34332,Medium
+3,Govt Job,Own,2,336,Post-Graduate,Urban,73654,High
+6,Govt Job,Own,2,170,Post-Graduate,Rural,72533,High
+5,Teacher,Rented,1,773,None,Urban,13332,Low
+8,Govt Job,Rented,1,514,Graduate,Urban,66050,High
+6,Private Job,Rented,2,263,None,Rural,25366,Medium
+10,Private Job,Rented,0,895,Post-Graduate,Rural,25811,Medium
+8,Farmer,Own,2,929,Post-Graduate,Urban,10530,Low
+9,Doctor,Own,0,383,None,Rural,39221,Medium
+10,Doctor,Own,2,382,None,Rural,35202,Medium
+10,Teacher,Own,1,559,Primary,Urban,13658,Low
+10,Business,Own,0,489,None,Rural,73117,High
+6,Govt Job,Rented,0,993,None,Urban,70659,High
+6,Private Job,Rented,0,800,None,Rural,25501,Medium
+10,Govt Job,Rented,1,258,Graduate,Rural,66645,High
+10,Business,Own,0,570,Secondary,Urban,88263,High
+2,Business,Rented,2,601,Graduate,Rural,81347,High
+2,Business,Rented,0,194,Secondary,Rural,88350,High
+7,Farmer,Rented,2,854,None,Urban,11635,Low
+3,Labour,Own,1,201,Post-Graduate,Urban,6457,BPL
+6,Doctor,Own,2,349,Primary,Urban,35833,Medium
+10,Farmer,Rented,1,306,Primary,Rural,6688,BPL
+7,Govt Job,Rented,2,630,Graduate,Urban,65846,High
+4,Labour,Own,1,741,None,Urban,8851,Low
+10,Govt Job,Own,2,499,None,Rural,79134,High
+3,Doctor,Own,0,445,Primary,Urban,33271,Medium
+3,Govt Job,Own,0,152,Primary,Rural,77546,High
+9,Govt Job,Own,2,713,Post-Graduate,Urban,64194,High
+8,Govt Job,Rented,0,567,Post-Graduate,Rural,64409,High
+3,Labour,Own,0,861,Secondary,Urban,9757,Low
+5,Labour,Own,1,715,None,Urban,9896,Low
+2,Business,Own,0,613,Post-Graduate,Urban,83412,High
+7,Labour,Own,1,600,None,Rural,6285,BPL
+6,Labour,Own,1,456,Post-Graduate,Urban,8848,Low
+8,Labour,Rented,1,461,Post-Graduate,Urban,7525,BPL
+5,Labour,Rented,0,901,Primary,Urban,9170,Low
+9,Labour,Rented,1,436,Secondary,Urban,7746,BPL
+4,Private Job,Rented,2,437,Primary,Urban,28595,Medium
+6,Doctor,Rented,0,125,Primary,Urban,34746,Medium
+9,Doctor,Own,0,526,Post-Graduate,Rural,37595,Medium
+9,Labour,Own,0,432,Secondary,Rural,7202,BPL
+8,Labour,Rented,1,188,Post-Graduate,Urban,7855,BPL
+10,Farmer,Own,1,505,Graduate,Rural,11526,Low
+2,Farmer,Own,1,241,Secondary,Rural,7300,BPL
+5,Farmer,Own,1,136,Secondary,Urban,8383,Low
+10,Farmer,Rented,1,140,Post-Graduate,Urban,11975,Low
+4,Business,Rented,0,467,Post-Graduate,Rural,89288,High
+7,Teacher,Rented,0,376,Primary,Urban,12296,Low
+7,Business,Rented,2,842,Post-Graduate,Urban,79319,High
+9,Govt Job,Rented,1,973,Secondary,Urban,75583,High
+9,Farmer,Own,2,313,Graduate,Urban,6200,BPL
+6,Private Job,Rented,2,948,Secondary,Urban,28828,Medium
+4,Labour,Own,2,350,Post-Graduate,Rural,8348,Low
+10,Business,Own,1,928,Secondary,Urban,80228,High
+8,Farmer,Own,2,546,Secondary,Rural,9154,Low
+6,Business,Own,1,989,Post-Graduate,Urban,72316,High
+9,Business,Rented,0,264,Post-Graduate,Rural,75716,High
+10,Private Job,Rented,2,818,Primary,Rural,26052,Medium
+9,Teacher,Rented,2,983,Graduate,Rural,12892,Low
+10,Business,Own,0,369,Secondary,Rural,71339,High
+4,Labour,Rented,1,689,Graduate,Rural,5053,BPL
+10,Govt Job,Rented,2,146,Post-Graduate,Urban,76211,High
+9,Labour,Rented,2,878,Graduate,Rural,9055,Low
+2,Govt Job,Rented,2,861,Post-Graduate,Rural,78255,High
+2,Teacher,Own,1,317,Graduate,Urban,12030,Low
+3,Teacher,Own,2,955,None,Rural,13554,Low
+9,Farmer,Own,2,809,Post-Graduate,Urban,11377,Low
+6,Labour,Rented,0,774,Graduate,Rural,8398,Low
+7,Teacher,Own,0,285,Post-Graduate,Urban,12159,Low
+3,Labour,Own,1,257,Graduate,Urban,8730,Low
+7,Farmer,Rented,2,480,Graduate,Rural,10347,Low
+7,Teacher,Rented,0,784,None,Rural,13607,Low
+10,Labour,Rented,1,227,Primary,Rural,6519,BPL
+4,Labour,Own,0,967,Graduate,Urban,8333,Low
+7,Private Job,Rented,0,561,Graduate,Rural,25477,Medium
+3,Teacher,Rented,2,844,Secondary,Urban,12522,Low
+6,Govt Job,Rented,0,338,Secondary,Urban,71524,High
+8,Private Job,Own,0,574,Graduate,Urban,26256,Medium
+3,Farmer,Own,0,658,Secondary,Urban,7481,BPL
+5,Private Job,Rented,2,674,Primary,Urban,26220,Medium
+2,Teacher,Rented,2,215,None,Urban,13993,Low
+5,Business,Own,1,492,None,Urban,73392,High
+3,Doctor,Rented,1,385,Post-Graduate,Rural,30758,Medium
+8,Private Job,Own,0,790,Primary,Urban,25943,Medium
+5,Doctor,Own,1,603,Secondary,Urban,35263,Medium
+3,Govt Job,Rented,0,890,Secondary,Urban,63206,High
+4,Labour,Rented,0,848,Secondary,Rural,5917,BPL
+10,Private Job,Rented,1,895,None,Urban,27602,Medium
+3,Doctor,Own,2,383,Secondary,Rural,34185,Medium
+9,Private Job,Own,2,126,Post-Graduate,Rural,25954,Medium
+10,Private Job,Rented,2,404,None,Urban,27463,Medium
+4,Labour,Own,0,447,None,Rural,9451,Low
+5,Doctor,Own,2,694,Primary,Urban,39403,Medium
+7,Labour,Rented,0,211,Secondary,Urban,5857,BPL
+7,Doctor,Rented,1,823,Graduate,Urban,36529,Medium
+5,Doctor,Own,0,654,Primary,Rural,35286,Medium
+7,Farmer,Rented,0,883,Primary,Rural,10904,Low
+2,Business,Rented,2,467,Post-Graduate,Rural,83045,High
+9,Doctor,Own,2,309,Primary,Urban,33742,Medium
+2,Doctor,Rented,0,461,Graduate,Rural,31833,Medium
+2,Doctor,Rented,2,751,Secondary,Urban,39803,Medium
+5,Business,Own,1,377,Secondary,Urban,71599,High
+6,Labour,Own,2,119,Post-Graduate,Rural,7633,BPL
+8,Govt Job,Rented,1,949,Secondary,Urban,65742,High
+7,Farmer,Own,1,855,Secondary,Rural,7684,BPL
+6,Private Job,Own,0,506,Primary,Urban,26491,Medium
+5,Govt Job,Rented,2,982,Primary,Rural,70437,High
+4,Business,Own,2,1000,Post-Graduate,Rural,85057,High
+3,Private Job,Rented,0,362,Primary,Urban,26907,Medium
+5,Govt Job,Own,1,296,Graduate,Urban,64777,High
+4,Labour,Own,0,420,Primary,Rural,6297,BPL
+5,Doctor,Own,0,239,Graduate,Urban,31831,Medium
+6,Govt Job,Rented,0,816,Graduate,Urban,64150,High
+2,Labour,Own,2,357,None,Urban,9504,Low
+10,Farmer,Rented,2,869,None,Rural,6924,BPL
+4,Private Job,Own,2,491,Post-Graduate,Rural,28988,Medium
+4,Farmer,Own,0,656,Primary,Urban,7084,BPL
+3,Govt Job,Rented,1,736,Graduate,Urban,77393,High
+2,Labour,Rented,2,523,None,Rural,8912,Low
+3,Farmer,Own,0,288,Graduate,Urban,7879,BPL
+8,Farmer,Own,0,936,Primary,Rural,7130,BPL
+4,Business,Own,1,883,Graduate,Rural,77452,High
+4,Labour,Own,2,300,Graduate,Rural,7680,BPL
+4,Labour,Rented,1,980,Graduate,Rural,6672,BPL
+10,Teacher,Rented,2,903,Graduate,Urban,12390,Low
+6,Farmer,Own,0,495,Graduate,Rural,11038,Low
+3,Doctor,Rented,0,261,Primary,Rural,30428,Medium
+5,Farmer,Rented,1,461,None,Rural,8476,Low
+8,Private Job,Own,2,759,Primary,Rural,28272,Medium
+4,Labour,Rented,2,885,None,Rural,5097,BPL
+6,Business,Rented,1,268,Post-Graduate,Urban,74393,High
+9,Private Job,Rented,1,409,None,Urban,29471,Medium
+4,Farmer,Rented,0,943,Graduate,Rural,9395,Low
+10,Labour,Own,0,706,Graduate,Rural,6128,BPL
+2,Govt Job,Rented,1,467,Post-Graduate,Urban,72262,High
+7,Farmer,Rented,1,563,Graduate,Urban,9118,Low
+6,Business,Rented,1,808,Graduate,Rural,81867,High
+10,Doctor,Own,0,232,Secondary,Rural,31302,Medium
+4,Labour,Rented,1,381,Post-Graduate,Urban,8566,Low
+3,Govt Job,Rented,1,289,Secondary,Urban,70791,High
+4,Labour,Own,2,866,Post-Graduate,Urban,5693,BPL
+2,Govt Job,Rented,1,582,Graduate,Rural,77988,High
+4,Teacher,Own,2,623,Graduate,Urban,12373,Low
+9,Govt Job,Rented,0,235,Post-Graduate,Rural,65828,High
+10,Teacher,Rented,1,864,Graduate,Rural,13972,Low
+5,Teacher,Own,1,639,Secondary,Urban,12378,Low
+2,Farmer,Own,1,958,Primary,Rural,6308,BPL
+7,Doctor,Own,0,133,Primary,Rural,35846,Medium
+3,Farmer,Rented,2,828,Primary,Rural,9968,Low
+4,Private Job,Own,2,103,Graduate,Urban,25330,Medium
+7,Doctor,Rented,1,691,None,Rural,38892,Medium
+9,Teacher,Own,0,520,Primary,Urban,13743,Low
+9,Farmer,Rented,1,395,Secondary,Urban,11656,Low
+6,Business,Rented,2,196,Post-Graduate,Rural,81568,High
+4,Doctor,Rented,1,931,Post-Graduate,Urban,38892,Medium
+7,Private Job,Own,0,678,Post-Graduate,Urban,29891,Medium
+6,Doctor,Rented,2,698,Post-Graduate,Urban,36989,Medium
+8,Business,Own,2,141,Primary,Urban,74549,High
+10,Teacher,Own,2,487,Secondary,Urban,13635,Low
+2,Business,Rented,0,295,Graduate,Rural,73783,High
+9,Farmer,Own,1,353,Secondary,Rural,10143,Low
+7,Govt Job,Own,2,885,Graduate,Urban,74622,High
+5,Labour,Rented,0,310,Secondary,Rural,6453,BPL
+6,Govt Job,Rented,0,790,None,Rural,75312,High
+2,Private Job,Own,2,691,Graduate,Urban,27649,Medium
+2,Labour,Own,2,612,Secondary,Rural,8817,Low
+7,Private Job,Rented,0,707,Primary,Rural,26266,Medium
+4,Doctor,Own,1,242,Graduate,Rural,39064,Medium
+10,Teacher,Rented,1,826,Primary,Rural,13823,Low
+9,Doctor,Rented,1,397,Post-Graduate,Rural,30010,Medium
+10,Private Job,Rented,2,698,Graduate,Rural,28400,Medium
+9,Private Job,Own,2,735,Graduate,Rural,25934,Medium
+2,Private Job,Own,2,270,Secondary,Rural,27760,Medium
+2,Private Job,Rented,2,675,Graduate,Rural,27860,Medium
+5,Teacher,Own,2,244,Secondary,Urban,13932,Low
+10,Doctor,Rented,1,623,Primary,Urban,34438,Medium
+5,Teacher,Rented,2,716,Post-Graduate,Urban,13934,Low
+5,Doctor,Rented,0,871,Graduate,Rural,32775,Medium
+5,Business,Own,0,933,Post-Graduate,Rural,89580,High
+10,Govt Job,Own,0,722,Secondary,Rural,79837,High
+9,Govt Job,Rented,2,201,Graduate,Rural,71216,High
+5,Govt Job,Rented,1,581,Graduate,Urban,75789,High
+6,Doctor,Own,0,650,Secondary,Urban,36572,Medium
+2,Doctor,Own,1,252,Post-Graduate,Rural,36212,Medium
+5,Business,Own,1,520,Graduate,Urban,81305,High
+7,Private Job,Rented,2,441,None,Urban,29947,Medium
+2,Doctor,Own,1,180,None,Rural,31664,Medium
+7,Private Job,Own,2,940,None,Rural,28872,Medium
+2,Teacher,Own,0,381,None,Urban,12602,Low
+10,Teacher,Rented,1,544,Graduate,Rural,13404,Low
+2,Private Job,Rented,1,617,Primary,Rural,29800,Medium
+2,Doctor,Own,1,274,Secondary,Urban,38308,Medium
+2,Govt Job,Own,1,273,Secondary,Rural,70944,High
+5,Doctor,Rented,0,296,Graduate,Urban,36368,Medium
+8,Business,Own,0,291,Post-Graduate,Rural,75691,High
+8,Doctor,Rented,2,512,Post-Graduate,Rural,34134,Medium
+3,Labour,Own,2,156,Primary,Rural,6800,BPL
+7,Teacher,Own,1,374,Primary,Urban,12933,Low
+9,Govt Job,Rented,2,361,Primary,Urban,62421,High
+6,Farmer,Own,0,451,None,Rural,11129,Low
+4,Labour,Own,1,310,Post-Graduate,Urban,8463,Low
+9,Teacher,Rented,0,591,Graduate,Urban,13343,Low
+3,Farmer,Rented,2,955,Primary,Rural,6004,BPL
+3,Labour,Own,1,841,Primary,Urban,8732,Low
+9,Labour,Own,0,896,None,Urban,7462,BPL
+10,Doctor,Own,0,775,Post-Graduate,Urban,33049,Medium
+10,Doctor,Own,2,538,Graduate,Urban,30228,Medium
+3,Farmer,Rented,1,805,Secondary,Rural,8730,Low
+10,Teacher,Own,0,739,None,Rural,13337,Low
+7,Govt Job,Rented,1,274,Primary,Urban,71989,High
+7,Business,Rented,1,690,Primary,Rural,79850,High
+8,Private Job,Rented,1,309,Primary,Rural,29567,Medium
+8,Farmer,Own,2,960,Primary,Urban,9112,Low
+7,Business,Rented,2,172,Secondary,Rural,86236,High
+10,Govt Job,Own,1,728,None,Rural,79680,High
+2,Teacher,Own,2,384,Post-Graduate,Rural,13817,Low
+2,Private Job,Own,1,149,None,Rural,28785,Medium
+4,Teacher,Rented,0,407,Graduate,Urban,13730,Low
+7,Teacher,Own,2,340,Primary,Rural,13044,Low
+5,Govt Job,Own,0,414,Post-Graduate,Rural,66923,High
+3,Govt Job,Own,1,554,Graduate,Rural,68347,High
+6,Teacher,Own,0,150,Secondary,Urban,12564,Low
+7,Teacher,Own,1,599,Primary,Urban,12174,Low
+6,Govt Job,Rented,1,903,None,Urban,67085,High
+9,Govt Job,Own,1,845,Secondary,Urban,77650,High
+4,Business,Rented,1,173,None,Urban,89268,High
+5,Business,Own,2,228,Secondary,Urban,87166,High
+3,Teacher,Rented,2,459,None,Urban,12203,Low
+6,Labour,Own,0,935,Primary,Urban,5748,BPL
+2,Govt Job,Own,1,725,Post-Graduate,Urban,79302,High
+9,Private Job,Rented,1,923,Post-Graduate,Rural,27377,Medium
+10,Business,Own,2,543,Graduate,Urban,87751,High
+7,Labour,Own,2,559,Primary,Rural,8785,Low
+7,Doctor,Own,2,679,Secondary,Rural,38182,Medium
+9,Farmer,Rented,2,172,Post-Graduate,Rural,10440,Low
+6,Doctor,Own,1,254,Graduate,Urban,35579,Medium
+10,Private Job,Own,1,321,Primary,Urban,25735,Medium
+5,Private Job,Rented,1,385,Primary,Urban,29219,Medium
+10,Business,Rented,1,351,Post-Graduate,Urban,84977,High
+5,Private Job,Rented,1,705,None,Urban,25442,Medium
+2,Doctor,Own,0,302,Secondary,Urban,36105,Medium
+6,Private Job,Own,0,955,Graduate,Rural,25399,Medium
+6,Farmer,Own,2,488,Post-Graduate,Rural,10844,Low
+2,Business,Rented,2,748,Post-Graduate,Rural,80656,High
+2,Farmer,Rented,0,450,Secondary,Rural,8722,Low
+5,Farmer,Rented,0,512,Post-Graduate,Urban,8251,Low
+9,Doctor,Rented,1,825,None,Urban,30338,Medium
+4,Private Job,Rented,1,137,Primary,Urban,29865,Medium
+7,Doctor,Own,0,691,Primary,Rural,34053,Medium
+5,Business,Rented,1,437,Primary,Urban,87760,High
+8,Business,Rented,1,454,None,Rural,87390,High
+4,Doctor,Rented,0,169,Post-Graduate,Urban,32789,Medium
+7,Teacher,Rented,2,410,Post-Graduate,Rural,12616,Low
+10,Business,Own,2,611,Post-Graduate,Urban,76782,High
+5,Govt Job,Rented,2,725,None,Urban,62724,High
+4,Teacher,Own,1,947,Secondary,Rural,13046,Low
+5,Business,Own,0,911,Primary,Urban,73275,High
+8,Doctor,Own,1,555,Secondary,Urban,31993,Medium
+4,Business,Own,1,619,Secondary,Urban,81963,High
+3,Farmer,Own,0,710,Secondary,Urban,10124,Low
+2,Doctor,Own,2,403,Secondary,Urban,35294,Medium
+7,Private Job,Rented,2,836,Secondary,Urban,25068,Medium
+4,Teacher,Rented,1,406,None,Urban,12056,Low
+4,Farmer,Rented,1,526,Secondary,Urban,10254,Low
+3,Business,Own,1,161,Primary,Rural,75578,High
+9,Business,Own,2,739,Post-Graduate,Rural,70287,High
+8,Govt Job,Own,1,433,Primary,Urban,64511,High
+3,Teacher,Own,2,760,Graduate,Rural,13863,Low
+9,Teacher,Own,0,807,Primary,Rural,13575,Low
+9,Doctor,Own,1,842,Primary,Urban,35448,Medium
+5,Private Job,Own,2,411,Graduate,Rural,29395,Medium
+2,Teacher,Own,0,731,Graduate,Urban,13652,Low
+4,Doctor,Rented,0,685,Primary,Urban,38920,Medium
+9,Govt Job,Rented,2,387,Graduate,Rural,66187,High
+8,Farmer,Rented,2,669,None,Rural,7284,BPL
+3,Private Job,Rented,2,137,Graduate,Urban,27354,Medium
+6,Doctor,Own,0,271,Primary,Rural,36063,Medium

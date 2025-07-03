@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Income Bracket Prediction</title>
+</head>
+<body>
+    <h2>Income Bracket Prediction Form</h2>
+    <form action="/predict" method="post">
+        <label>Family Size:</label>
+        <input type="number" name="Family_size" min="2" max="10" required><br><br>
+
+        <label>Occupation:</label>
+        <select name="Occupation" required>
+            <option value="Labour">Labour</option>
+            <option value="Farmer">Farmer</option>
+            <option value="Teacher">Teacher</option>
+            <option value="Doctor">Doctor</option>
+            <option value="Private Job">Private Job</option>
+            <option value="Govt Job">Govt Job</option>
+            <option value="Business">Business</option>
+        </select><br><br>
+
+        <label>House Type:</label>
+        <select name="HouseType" required>
+            <option value="Own">Own</option>
+            <option value="Rented">Rented</option>
+        </select><br><br>
+
+        <label>Vehicles:</label>
+        <input type="number" name="Vehicles" min="0" max="2" required><br><br>
+
+        <label>Electricity Bill:</label>
+        <input type="number" name="ElectricityBill" min="100" max="1000" required><br><br>
+
+        <label>Education Level:</label>
+        <select name="Education" required>
+            <option value="None">None</option>
+            <option value="Primary">Primary</option>
+            <option value="Secondary">Secondary</option>
+            <option value="Graduate">Graduate</option>
+            <option value="Post-Graduate">Post-Graduate</option>
+        </select><br><br>
+
+        <label>Area:</label>
+        <select name="Area" required>
+            <option value="Rural">Rural</option>
+            <option value="Urban">Urban</option>
+        </select><br><br>
+
+        <input type="submit" value="Predict Income Bracket">
+    </form>
+</body>
+</html>
