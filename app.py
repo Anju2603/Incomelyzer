@@ -44,6 +44,5 @@ def predict():
     except Exception as e:
         return f"Error: {str(e)}"
 
-# ✅ This must be outside the predict() function
 if __name__ == "__main__":
     app.run(debug=True)
